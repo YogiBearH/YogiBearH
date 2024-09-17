@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YogiBearH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Spring!
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m John N., welcome to my page
+- 👀 I’m interested in web development.
+- 🌱 I’m currently data structures and algorithms!
+- 💞️ I’m looking to collaborate on working on my recipe page
 - 📫 How to reach me ...
 
 <!---
